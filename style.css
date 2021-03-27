@@ -42,16 +42,17 @@
 
 .sign-up {
 
-  position: absolute;
-  right: 5%;
-  PADDING: 6px;
-  WIDTH: 174px;
-  height: 33px;
-  font-size: 19px;
-  color: white;
-  background: #e4161678;
-  border: none;
-  top: 25%;
+    position: relative;
+    PADDING: 0px;
+    WIDTH: 174px;
+    height: 33px;
+    font-size: 19px;
+    color: white;
+    background: #e4161678;
+    border: none;
+    top: 25%;
+    width: 314px;
+    font-family: 'Ubuntu';
 
 }
 
